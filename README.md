@@ -25,7 +25,10 @@ Driven by data-led discovery, I develop reproducible computational workflows to 
 * 💊 **[In silico identification of Ferroptosis Inducing Compounds Targeting SLC7A11 in Therapy-Resistant Cancers](https://github.com/mi-gandora/In_Silico_SLC7A11_Drug_Discovery)**  
   Executed a Computer-Aided Drug Design (CADD) workflow focused on identifying novel small molecules to trigger ferroptosis in cancer cells. Managed target protein profiling for the SLC7A11 transporter, structural ligand preparation, and multi-tier molecular docking. Validated lead candidates through MM-GBSA binding dynamics, ADMET profiling, and structural lead optimization.
 
----
+* 🧬 **[Single-Cell RNA-Seq Trajectory & Developmental Pipeline for Mouse Fetal Growth Restriction (FGR)](https://github.com/mi-gandora/mouse-fgr-scrnaseq)**  
+  Engineered an end-to-end single-cell RNA sequencing pipeline, migrating an educational Galaxy workflow into an automated, reproducible Python and Scanpy CLI suite. Quantified multi-sample expression using Salmon Alevin, performed statistical background filtering via emptyDrops, and implemented advanced trajectory inference—including Partition-based Graph Abstraction (PAGA), Force-Directed Graphs (FDG), and Diffusion Pseudotime (DPT)—to map thymic T-cell development and uncover genotype-driven maturation bottlenecks.
+
+  ---
 
 ### 📫 Let's Connect!
 * 🚀 Always open to discussing computational biology, structural bioinformatics, or open-source infrastructure projects!
